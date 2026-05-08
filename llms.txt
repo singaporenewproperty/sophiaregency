@@ -1,0 +1,9 @@
+# Sophia Regency
+
+> Sophia Regency — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/sophiaregency/
+
+## Pages
+
+- [Sophia Regency](https://singaporenewproperty.github.io/sophiaregency/): Sophia Regency property information.
